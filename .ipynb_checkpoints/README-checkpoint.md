@@ -17,4 +17,4 @@ Codes for paper: Machine learning based on automated breast volumescanner (ABVS)
 
 Run **main_paper2_V5-2.ipynb** to get merely all results for the paper.
 
-Run **main_paper2_V5_Supplement.ipynb** to get supplement for the paper
+Run **main_paper2_V5_Supplement.ipynb** to get additional results for the paper.
